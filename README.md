@@ -10,6 +10,7 @@ You want to send strings to it in five character chunks.
 Create a method that when given a lengthy string, will break it up into an array where
 each element consists of a string of five characters.
 
+**DO NOT USE ENUMERABLES**
 ## Bonus Try Hard
 Have the method allow you to change the size of the chunks.
 
